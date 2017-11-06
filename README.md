@@ -5,3 +5,7 @@ Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos 
 Para completar la primera práctica del apartado de gestión ágil, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositiorio.
 
 **Incluid debajo el nombre de los miembros del grupo:**
+- Marina García Mediavilla
+- José Luis Garrido Labrador
+- José Miguel Ramírez Sanz
+- Eduardo Zambrano León
